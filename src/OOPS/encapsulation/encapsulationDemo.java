@@ -1,4 +1,4 @@
-package three.encapsulation;
+package OOPS.encapsulation;
 
  class Car {
     private String brand;

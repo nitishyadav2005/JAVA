@@ -1,4 +1,4 @@
-package three.inheritance;
+package OOPS.inheritance;
 
 public class vehicle {
     private String brand;

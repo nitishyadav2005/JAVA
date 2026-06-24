@@ -1,4 +1,4 @@
-package three.inheritance;
+package OOPS.inheritance;
 
 public class InheritanceDemo {
     static void main(String[] args) {

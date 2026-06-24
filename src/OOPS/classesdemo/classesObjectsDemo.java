@@ -1,4 +1,4 @@
-package three.classesdemo;
+package OOPS.classesdemo;
 
 public class classesObjectsDemo {
    public static void main(String[] args) {

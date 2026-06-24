@@ -1,4 +1,4 @@
-package three.classesdemo;
+package OOPS.classesdemo;
 
 public class Car {
     String brand;

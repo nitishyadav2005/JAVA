@@ -1,4 +1,4 @@
-package three.polymorphism;
+package OOPS.polymorphism;
 
 public class vehicle {
     private String brand;

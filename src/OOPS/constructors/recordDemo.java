@@ -1,4 +1,4 @@
-package three.constructors;
+package OOPS.constructors;
 
 record Bike(String brand, int speed){}
 

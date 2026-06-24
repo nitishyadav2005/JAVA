@@ -1,13 +1,16 @@
-package three.inheritance;
+package OOPS.polymorphism;
 
-public class Car extends vehicle{
+public class Car extends vehicle {
     private int doors;
 
     public Car(String brand, int speed, int doors){
         super(brand, speed);
         this.doors = doors;
     }
-
+    @Override
+    public void start(){
+        System.out.println("Starting Car....");
+    }
     @Override
     public void displayInfo() {
         //super.displayInfo();
