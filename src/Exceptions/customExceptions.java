@@ -29,7 +29,7 @@ public class customExceptions {
     public static void main(String[] args) {
         Library1 library = new Library1();
         try{
-            library.borrowBook("john", 1);
+            library.borrowBook("john", -1);
             library.borrowBook("", 1);
         } catch (Exception e) {
             //e.printStackTrace();
