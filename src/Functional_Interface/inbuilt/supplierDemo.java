@@ -1,0 +1,12 @@
+package Functional_Interface.inbuilt;
+
+import java.util.function.Supplier;
+
+public class supplierDemo {
+    static void main(String[] args) {
+        Supplier<Double>  randomNum = Math::random;
+        System.out.println(randomNum.get());
+        System.out.println(randomNum.get());
+        System.out.println(randomNum.get());
+    }
+}
